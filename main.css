@@ -1,0 +1,77 @@
+h1{
+    border-radius: 50px;
+    text-align: center;
+    border: solid  red 5px;
+    background-color: lightblue;
+}
+.red{
+    color: red;
+}
+.redtext{
+color: red;
+}
+.yellow{
+    color: gold;
+}
+.green{
+    color: green;
+}
+.brown{
+    color: brown;
+}
+.greentext{
+    color: green
+}
+caption{
+    background-color: yellow;
+}
+.redline{
+    background-color: red;
+}
+.greenline{
+    background-color: green;
+}
+.purplebox{
+background-color: rgb(131, 45, 173);
+}
+button{
+    background-color: greenyellow;
+    width: 300px;
+    border: none;
+}
+.img1{
+    width: 400px;
+}
+.img2{
+    width: 400px;
+}
+.img3{
+    width: 400px;
+}
+.img4{
+    width: 400px;
+}
+iframe{
+    width: 400px;
+    height: 350px;
+}
+.black{
+    background-color: black;
+    border: solid black 2px;
+}
+.ТОЧКА{
+    list-style: none;
+}
+.box1{
+    display: inline-block;
+    height: 8px;
+    width: 20px;
+    padding: 3px;
+    border: 1px solid black;
+}
+.box2{
+    background-color: black;
+    width: 18px;
+    height: 10px;
+
+}
